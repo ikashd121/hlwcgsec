@@ -1,4 +1,5 @@
 # hlwcgsec
+
 互联网避雷针
 
 ## 关于项目
@@ -14,5 +15,9 @@
 联系 @kk66887799
 
 ## 如何打赏？
-
-TVEUNYcMp9BhvimfRzA2jTV5oMsHVZAwkE
+xmr
+89xU5UD8hr9Ku45WERtkt4VAyoZg7pThNHXhZJNSdSWaYVXVurRBfja4CH3GokxJMfU6PR7LWYuqSASEyWmWbJFhE5T9jc7
+btc(ERC20)
+0xc0a6b9d3d214dece9722b95ed6de4f6bb929f903
+usdt(ERC20)
+0xe1264ece459a3a04fd5277f1a71e5a3a019a1c37

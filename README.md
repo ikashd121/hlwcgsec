@@ -2,9 +2,6 @@
 
 互联网避雷针
 
-<img width="571" alt="image" src="https://github.com/ikashd121/hlwcgsec/assets/140723948/2e3dae5b-5a1a-48d0-b58c-fcaf874f6f6a">
-
-
 ## 关于项目
 
 本项目主要收集互联网环境各大培训机构、中介公司的部分事实，帮助师傅们擦亮眼睛，踩坑避坑
@@ -37,4 +34,8 @@ btc(ERC20)
 usdt(ERC20)
 
 0xe1264ece459a3a04fd5277f1a71e5a3a019a1c37
+
+## 从来如此，便对吗？
+
+<img width="571" alt="image" src="https://github.com/ikashd121/hlwcgsec/assets/140723948/2e3dae5b-5a1a-48d0-b58c-fcaf874f6f6a">
 

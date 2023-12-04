@@ -34,4 +34,11 @@
 ## 第三点 圈人合同 主打释放
 ![](https://github.com/ikashd121/hlwcgsec/assets/140723948/4b1e96ed-93f7-4cee-846a-86aa0593d1c4)
 
+## 第四点 70%以下绩效没钱 主打情怀护网
+![](https://github.com/ikashd121/hlwcgsec/assets/140723948/bae310cd-0a4c-477a-9292-28f2c5173518)
+![](https://github.com/ikashd121/hlwcgsec/assets/140723948/ee46dfcc-7eba-44e1-86a2-f897761b31c1)
+![](https://github.com/ikashd121/hlwcgsec/assets/140723948/23bf29fc-4368-476e-987a-7b2d2ea20532)
+
+
+
 
